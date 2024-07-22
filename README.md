@@ -60,7 +60,7 @@ Dynamic AutoML is a versatile platform designed to streamline various data tasks
 4. **Model Evaluation:** Evaluate model performance using metrics and visualizations provided by the platform.
 5. **Deployment:** Download trained models for deployment or integrate them directly into your applications.
 
-**Access:** Access the platform directly [here](https://automl-data-pipeline.streamlit.app/).
+**Access:** Access the platform directly [here](https://huggingface.co/spaces/SicarioOtsutsuki/automlll).
 
 
 ## How It Helps Developers
